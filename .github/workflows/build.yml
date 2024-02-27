@@ -1,4 +1,4 @@
-# Name of the workflow
+# Name of the workflows
 name: Build
 
  # Controls what will trigger the workflow.
